@@ -8,4 +8,5 @@ Back-end developer: Vishaak Raghupathy, Kelly Tran, Jacqueline Hui
 Designer: Miracle Zhang
 
 Figma link: https://www.figma.com/file/kMvK2NtvUBpOQx2HJ10d7j/Hack-Challenge?node-id=2%3A5
+
 Youtube demo: https://www.youtube.com/watch?v=XSMC325aZXU
